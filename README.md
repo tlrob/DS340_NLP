@@ -14,7 +14,6 @@ The raw file is a 109 MB JSON file which contains several parameters about a car
 
 
 TODO - will become more detailed as time goes on and I learn techniques. <br>
-Create dataset of card data, scrape web for discussion.<br>
 Preprocess data, split into desired categories (year, color, popularity, etc.) <br>
 perform desired analysis <br>
 
